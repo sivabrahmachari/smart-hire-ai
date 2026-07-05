@@ -1,13 +1,32 @@
-# 🚀 Smart Hire AI
+# Smart Hire AI 🚀
 
-Production-grade AI Powered Recruitment Platform
+## Vision
 
-## Tech Stack
+Build a Production Grade AI Powered Recruitment Platform using Java Microservices.
+
+---
+
+## Services
+
+- API Gateway
+- Auth Service
+- User Service
+- Company Service
+- Job Service
+- Application Service
+- Interview Service
+- Notification Service
+- Resume Service
+- AI Service
+
+---
+
+## Technology Stack
 
 - Java 17
 - Spring Boot
-- Spring Cloud
 - Spring Security
+- Spring Cloud Gateway
 - Spring AI
 - PostgreSQL
 - Redis
@@ -18,6 +37,13 @@ Production-grade AI Powered Recruitment Platform
 - AWS
 
 ---
-Current Status
 
-🟢 Project Initialization
+## Current Progress
+
+- [x] Git Setup
+- [x] Repository Created
+- [ ] API Gateway
+- [ ] Auth Service
+- [ ] User Service
+- [ ] Job Service
+- [ ] AI Service
